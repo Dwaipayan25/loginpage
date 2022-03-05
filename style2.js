@@ -6,12 +6,12 @@ function validate()
     if(username=="dwaipayan01" && password=="12345")
     {
         alert("Login Succesfully");
-        location.reload;
+        location.reload();
     }
     else
     {
         alert("Login Failed");
-        location.reload;
+        location.reload();
     }
 
 }
